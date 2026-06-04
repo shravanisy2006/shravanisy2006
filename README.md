@@ -2,7 +2,7 @@
   <img src="./assets/banner.png" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Shravani Yalagatti</h1>
+<h1 align="center">Hello , I'm Shravani Yalagatti</h1>
 
 <h3 align="center">
 CSBS Student • Python Developer • AI/ML Enthusiast • Community Leader
