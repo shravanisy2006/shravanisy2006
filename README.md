@@ -9,10 +9,6 @@ CSBS Student • Python Developer • AI/ML Enthusiast • Community Leader
 </h3>
 
 <p align="center">
-  <img src="./profile.jpeg" width="180" style="border-radius:50%;" alt="Shravani Yalagatti"/>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/shravani-yalagatti/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
