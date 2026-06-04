@@ -9,7 +9,7 @@ CSBS Student • Python Developer • AI/ML Enthusiast • Community Leader
 </h3>
 
 <p align="center">
-  <img src="./assets/profile.jpg" width="180" style="border-radius:50%;" alt="Shravani Yalagatti"/>
+  <img src="./profile.jpeg" width="180" style="border-radius:50%;" alt="Shravani Yalagatti"/>
 </p>
 
 <p align="center">
