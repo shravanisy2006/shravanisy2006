@@ -75,21 +75,6 @@ Check out my pinned repositories below 👇
 - AI/ML Exploration
 - Computer Vision
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shravanisy2006&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanisy2006&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shravanisy2006&theme=tokyonight"/>
-</p>
 
 ---
 
