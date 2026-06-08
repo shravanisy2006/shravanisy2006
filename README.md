@@ -27,10 +27,6 @@ CSBS Student • Python Developer • AI/ML Enthusiast • Community Leader
 
 🌱 Currently learning Data Structures, OpenCV, AI/ML and Real-World Project Development
 
-☁️ Core Member at AWS JSPM RSCOE
-
-🏛️ Secretary at Gotham
-
 🤝 Love collaborating with communities, organizing events and building impactful projects
 
 🎯 Goal: To build practical AI-powered solutions and secure opportunities in Software Development & AI/ML
